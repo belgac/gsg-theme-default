@@ -1,0 +1,23 @@
+{
+  "name": "gsg-theme-default",
+  "homepage": "https://github.com/belgac/gsg-theme-default",
+  "authors": [
+    "belgac <hans.scheuren@bizliner.com>"
+  ],
+  "description": "The default theme for gulp-stat-gen",
+  "keywords": [
+    "gsg-themes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/belgac/gsg-theme-default.git"
+  }
+}
