@@ -10,8 +10,6 @@
   ],
   "license": "MIT",
   "main": [
-    "theme-config.json",
-    "bower.json",
     "templates/atom.xml",
     "templates/default.html",
     "templates/index.html",
