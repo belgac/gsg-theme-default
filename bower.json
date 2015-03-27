@@ -9,6 +9,10 @@
     "gsg-themes"
   ],
   "license": "MIT",
+  "main": [
+    "templates/default.html",
+    "templates/index.html"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
